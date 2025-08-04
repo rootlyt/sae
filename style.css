@@ -112,7 +112,7 @@ body {
 }
 
 .overlay h2 {
-  font-size: 2rem;
+  font-size: 20pt;
   margin-bottom: 1rem;
 }
 
@@ -229,3 +229,4 @@ body {
 .about-text p {
   font-size: 1rem;
 }
+
